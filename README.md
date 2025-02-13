@@ -1,4 +1,4 @@
-1. LDPC_PCM.txt: a lifted Tanner graph from the base matrix
+1. PCM.txt: a lifted Tanner graph from the base matrix
 - First row: number of check nodes / number of variable nodes / number of edges
 - From the second row: edge information (check node index / variable node index)
 
